@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **reach, vue, python, php, js, node**
 
-- 📫 How to reach me **iangelbarre@gmail.com**
+- 📫 How to reach me **iamskydev@gmail.com**
 
 - ⚡ Fun fact **I think I am funny**
 
